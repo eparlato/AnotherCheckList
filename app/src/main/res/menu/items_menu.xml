@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:anotherchecklist="http://schemas.android.com/apk/res-auto" >
+
+    <item
+        android:id="@+id/items_menu_delete_items"
+        android:icon="@drawable/ic_action_discard"
+        android:title="@string/items_menu_delete_items"
+        anotherchecklist:showAsAction="always">
+    </item>
+    <item
+        android:id="@+id/items_menu_edit_title"
+        android:title="@string/items_menu_edit_title">
+    </item>
+    <item
+        android:id="@+id/items_menu_delete_list"
+        android:title="@string/items_menu_delete_list"
+        >
+    </item>
+
+</menu>

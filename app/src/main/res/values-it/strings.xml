@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AnotherCheckList</string>
+    <string name="items_button_add">Aggiungi</string>
+    <string name="items_button_edit">Modifica</string>
+    <string name="items_button_del_items">Elimina</string>
+    <string name="items_item_hint">Nome elemento</string>
+    <string name="item_single_menu_edit">Modifica</string>
+    <string name="items_menu_edit_title">Modifica nome lista</string>
+    <string name="items_menu_delete_items">Elimina selezionati</string>
+    <string name="items_menu_delete_list">Elimina lista</string>
+    <string name="items_edit_title_Ok">Ok</string>
+    <string name="items_edit_title_Cancel">Annulla</string>
+    <string name="lists_add_list">Crea nuova</string>
+    <string name="lists_menu_edit_name">Modifica nome lista</string>
+    <string name="lists_menu_delete">Cancella lista</string>
+
+</resources>
