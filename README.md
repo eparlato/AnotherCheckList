@@ -1,4 +1,5 @@
 AnotherCheckList - A checklist (to-do) app for Android
+------------------------------------------------------
 
 This Android app lets you create and manage lists of to-do items. 
 
